@@ -1,4 +1,4 @@
-# Your report
+# four categories report
 
 The dataset was loaded with the four categories `alt.atheism`, `soc.religion.christian`, `comp.graphics`, and `sci.med`. The document-length analysis shows substantial variation within every category, with many long-document outliers. The category box plot was saved as `[exact plot filename]` and corresponds to result `[describe_data_result_id]`.
 
